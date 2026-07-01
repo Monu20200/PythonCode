@@ -1,5 +1,5 @@
 # PythonCode
-This is first repository
+This is my first repository
 <br>
 I'm eager to learn programming
 <br>
