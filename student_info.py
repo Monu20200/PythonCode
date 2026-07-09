@@ -30,6 +30,6 @@ def info_collector():
         elif b not in "yYnN":
             print("invalid input")
             continue
-    # print(l_info)    
-    return l_info
+print(l_info)    
+    #return l_info
 info_collector()
